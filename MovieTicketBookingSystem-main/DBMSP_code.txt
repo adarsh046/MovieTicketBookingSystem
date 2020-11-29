@@ -1,3 +1,4 @@
+create databse dbms_project;
 USE dbms_project;
 CREATE TABLE LOGIN_CRED
 (
